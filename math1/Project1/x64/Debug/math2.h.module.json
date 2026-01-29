@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\math2.h.obj",
+            "outputs": [
+                "C:\\Users\\David Papazyan\\source\\repos\\math1\\x64\\Debug\\Project1.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\David Papazyan\\source\\repos\\math1\\Project1\\x64\\Debug\\math2.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "math2.h",
+                    "source-path": "c:\\users\\david papazyan\\source\\repos\\math1\\project1\\math2.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
